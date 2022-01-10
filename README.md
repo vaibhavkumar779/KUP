@@ -28,13 +28,13 @@
  
 # Q. Difference between:
 			Linux                                          	                                   Windows      					Unix
-		Linux is a open source operating system.	                       While windows are the not the open source operating system.        Unix was developed by AT&T Bell labs and is not	
-		Linux is free of cost.	                                              While it is costly.						      open source.
-		It’s file name case-sensitive.	                               While it’s file name is case-insensitive.                          Unix is licensed OSUnix is mostly on Servers,	
-		In linux, monolithic kernel is used.	                               While in this, micro kernel is used.                               Workstations or PCs.
-		Linux is more efficient in comparison of windows.	                While windows are less efficient.                                  Ex:- SunOS, Solaris
+		Linux is a open source operating system.	                      While windows are the not the open source operating system.        Unix was developed by AT&T Bell labs and is 
+		Linux is free of cost.	                                             While it is costly.						    not open source.
+		It’s file name case-sensitive.	                              While it’s file name is case-insensitive.                          Unix is licensed OSUnix is mostly on 	
+		In linux, monolithic kernel is used.	                              While in this, micro kernel is used.                               Servers,Workstations or PCs.
+		Linux is more efficient in comparison of windows.	               While windows are less efficient.                                  Ex:- SunOS, Solaris
 		There is forward slash is used for Separating the directories.	While there is back slash is used for Separating the directories.
-		Linux provides more security than windows.	                        While it provides less security than linux.
+		Linux provides more security than windows.	                       While it provides less security than linux.
 
 # Q. What are features of  a kernel?
 
