@@ -18,8 +18,8 @@
 		Agile refers to an iterative approach which		DevOps is considered a practice of bringing 
 		focuses on collaboration, customer feedback,		development and operations teams together.
 		and small, rapid releases.
-Purpose  =	Agile helps to manage complex projects.		DevOps central concept is to manage end-to-end engineering processes.
-Task =		Agile process focusses on constant changes.		DevOps focuses on constant testing and delivery.
+		Agile helps to manage complex projects.		DevOps central concept is to manage end-to-end engineering processes.
+		Agile process focusses on constant changes.		DevOps focuses on constant testing and delivery.
 
 # Day_1
 
