@@ -79,20 +79,23 @@
  
  In this service data is stored i.e. if u want to run the web server , you will store the file here .
  
-# Ques. Where are unit files located?
+# Q. Where are unit files located?
 
-Ans. Unit files are stored in the /usr/lib/systemd directory and its subdirectories, while the /etc/systemd/ directory and its subdirectories contain symbolic links to the unit files necessary to the local configuration of this host.
+ Unit files are stored in the /usr/lib/systemd directory and its subdirectories, while the /etc/systemd/ directory and its subdirectories contain symbolic
+ links to the unit files necessary to the local configuration of this host.
 
-# Ques. Create a service file for nginx.
+# Q. Create a service file for nginx.
 
 Save this file as /lib/systemd/system/nginx.service
 
 [Unit]
+
 Description=The NGINX HTTP and reverse proxy server
 After=syslog.target network-online.target remote-fs.target nss-lookup.target
 Wants=network-online.target
 
 [Service]
+
 Type=forking
 PIDFile=/run/nginx.pid
 ExecStartPre=/usr/sbin/nginx -t
@@ -102,4 +105,5 @@ ExecStop=/bin/kill -s QUIT $MAINPID
 PrivateTmp=true
 
 [Install]
+
 WantedBy=multi-user.target
