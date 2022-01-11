@@ -8,7 +8,7 @@
   Microservices architecture is built as small independent module based on business functionality
   Each project and module has their own database
 
-# Q. What are spirits?
+# Q. What are sprints?
   Sprint is a set period of time during which specific work has to be completed and made ready for review.Each sprint begins with a planning meeting
 
 # Q. Difference between Agile and DevOps? 
