@@ -157,3 +157,36 @@ We can identify a type of file by the colour of the files which are as follows:
 - *Red*: Archive file
 - *Red with black background*: Broken link
 
+# Q. What does srv contain and why is it empty?
+ 
+ In this service data is stored i.e. if u want to run the web server , you will store the file here .
+ 
+# Q. What does the mnt directory contain?
+ 
+ temporary mount points for mounting storage devices, such as CDROMs, floppy disks and USB , key drives.
+
+# Q. How does cgroup be different from namespace?
+
+cgroups limit you use 
+namespace limit what you can use 
+
+# Q. How to delete files in vim editor?
+
+Shift+d and then y
+
+# Q. Difference between wq and x? 
+wq = save and exit 
+x = exit without save
+
+# Q. what are hidden files in linux
+
+files used in order to execute some scripts or to store configuration about some services on your host.
+
+# Q. How to identify which type of file is this?
+
+ls -lah
+
+# Q. Why lib,lib64 is in a different color?
+
+Files that can be used for various functions
+chang in color may depends upon link, directory, image etc.
