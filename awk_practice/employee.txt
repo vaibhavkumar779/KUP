@@ -1,0 +1,5 @@
+taarun peon sales 15000
+madhav manager sales 40500
+tarang engineer R&D 23000
+mukhund engineer R&D 23400
+masukqin clerk sales 20000
